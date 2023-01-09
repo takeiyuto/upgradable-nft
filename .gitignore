@@ -1,4 +1,5 @@
-.openzeppelin/
 build/
 node_modules/
+.openzeppelin/
 .DS_Store
+yarn-error.log
