@@ -1,11 +1,11 @@
 {
   "devDependencies": {
-    "@truffle/hdwallet-provider": "2.1.4",
-    "ganache": "7.7.2",
-    "truffle": "5.7.2"
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "ganache": "^7.8.0",
+    "truffle": "^5.9.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "4.8.0",
-    "@openzeppelin/truffle-upgrades": "1.17.0"
+    "@openzeppelin/contracts-upgradeable": "^4.8.3",
+    "@openzeppelin/truffle-upgrades": "^1.18.0"
   }
 }
