@@ -5,7 +5,7 @@
     "truffle": "^5.9.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "^4.9.1",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3",
     "@openzeppelin/truffle-upgrades": "^1.18.0"
   }
 }
